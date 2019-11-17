@@ -21,9 +21,7 @@
   <li style="color:MediumSeaGreen;">ping</li>
   <li style="color:MediumSeaGreen;">leaderboard</li>
 </ul>
-<p>The image below will send you to the invite link or you can manually click the link below that.</p>
-<a href="default.asp">
-  <img src=smile.png" alt="loomicord invite" style="width:42px;height:42px;border:0">
-</a>
+<p>Click the link below to get catching!</p>
+<a href="https://www.w3schools.com/" target="_blank">Visit W3Schools!</a>
     </body>
 </html>
