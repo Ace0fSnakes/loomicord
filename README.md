@@ -24,7 +24,7 @@
       
       
 
-<a href="https://www.w3schools.com/" target="_blank">Get The Bot!</a>
+<a href="https://discordapp.com/api/oauth2/authorize?client_id=642904980008730634&permissions=8&scope=bot" target="_blank">Get The Bot!</a>
 
     </body>
 </html>
