@@ -23,7 +23,7 @@
 </ul>
 <p>The image below will send you to the invite link or you can manually click the link below that.</p>
 <a href="default.asp">
-  <img src=https://vignette.wikia.nocookie.net/loomian-legacy/images/d/df/Embit-render.png" alt="loomicord invite" style="width:42px;height:42px;border:0">
+  <img src=smile.png" alt="loomicord invite" style="width:42px;height:42px;border:0">
 </a>
     </body>
 </html>
